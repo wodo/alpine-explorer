@@ -1,0 +1,12 @@
+syntax: glob
+
+*.pyc
+.DS_Store
+.coverage
+_build
+_static
+
+syntax: regexp
+^docs/_build/.*
+^htmlcov/.*
+
