@@ -68,7 +68,6 @@ release = '0.0.1a1'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'de'
 locale_dirs = ['locale/']
 
 # There are two options for replacing |today|: either, you set today to some
@@ -112,6 +111,8 @@ todo_include_todos = False
 # -- Options for HTML output ----------------------------------------------
 
 if not on_rtd:  # only import and set the theme if we're building docs locally
+    language = 'de'
+
     # The theme to use for HTML and HTML Help pages.  See the documentation for
     # a list of builtin themes.
     html_theme = 'bootstrap'
@@ -132,6 +133,13 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 
     # Add any paths that contain custom themes here, relative to this directory.
     html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+
+    # Language to be used for generating the HTML full-text search index.
+    # Sphinx supports the following languages:
+    #   'da', 'de', 'en', 'es', 'fi', 'fr', 'hu', 'it', 'ja'
+    #   'nl', 'no', 'pt', 'ro', 'ru', 'sv', 'tr'
+    html_search_language = 'de'
+
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -199,12 +207,6 @@ html_static_path = ['_static']
 
 # This is the file name suffix for HTML files (e.g. ".xhtml").
 #html_file_suffix = None
-
-# Language to be used for generating the HTML full-text search index.
-# Sphinx supports the following languages:
-#   'da', 'de', 'en', 'es', 'fi', 'fr', 'hu', 'it', 'ja'
-#   'nl', 'no', 'pt', 'ro', 'ru', 'sv', 'tr'
-html_search_language = 'de'
 
 # A dictionary with options for the search language support, empty by default.
 # Now only 'ja' uses this config value
