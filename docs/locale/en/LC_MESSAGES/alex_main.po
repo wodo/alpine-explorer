@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, Wolfgang Doll
 # This file is distributed under the same license as the Alpine-Explorer package.
-# 
+#
 # Translators:
 # Wolfgang Doll <Wolfgang.doll@web.de>, 2015
 msgid ""
@@ -17,10 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: ../../alex_main.rst:5
-msgid "Projekt ALeX"
-msgstr "Project ALeX"
 
 #: ../../alex_main.rst:8
 msgid "Ideensammlung"
@@ -133,3 +129,10 @@ msgstr ""
 #: ../../alex_main.rst:45
 msgid "Sattelpunkte"
 msgstr ""
+
+#: ../../alex_main.rst:5
+msgid "Projekt ALeX (Deutsch)"
+msgstr ""
+
+#~ msgid "Projekt ALeX"
+#~ msgstr "Project ALeX"

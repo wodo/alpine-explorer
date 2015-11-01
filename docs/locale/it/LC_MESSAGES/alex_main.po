@@ -11,10 +11,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../alex_main.rst:5
-msgid "Projekt ALeX"
-msgstr ""
-
 #: ../../alex_main.rst:8
 msgid "Ideensammlung"
 msgstr ""
@@ -126,3 +122,10 @@ msgstr ""
 #: ../../alex_main.rst:45
 msgid "Sattelpunkte"
 msgstr ""
+
+#: ../../alex_main.rst:5
+msgid "Projekt ALeX (Deutsch)"
+msgstr ""
+
+#~ msgid "Projekt ALeX"
+#~ msgstr ""

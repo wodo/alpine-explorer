@@ -1,8 +1,8 @@
 ﻿.. _alex_main:
 
-============
-Projekt ALeX
-============
+======================
+Projekt ALeX (Deutsch)
+======================
 
 Ideensammlung
 =============
