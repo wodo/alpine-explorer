@@ -9,15 +9,19 @@
 
 update guest additions ubuntu vagrant virtual box
 
-sudo apt-get install build-essential
-sudo apt-get install dkms
-sudo apt-get install linux-headers-$(uname -r)
+* sudo apt-get install build-essential
+* sudo apt-get install dkms
+* sudo apt-get install linux-headers-$(uname -r)
+
 -> REBOOT
+
 Insert the VBoxGuestAdditions.iso CD file into your Linux guest's virtual CD-ROM drive
 (Applications/VirtualBox.app/Contents/MacOS/VBoxGuestAdditions.iso)
+
 * sudo mount /dev/dvd /media/cdrom
 * cd /media/cdrom
 * sudo sh ./VBoxLinuxAdditions.run
+
 -> REBOOT
 
 * sudo apt-get install language-pack-de-base
@@ -63,9 +67,10 @@ Insert the VBoxGuestAdditions.iso CD file into your Linux guest's virtual CD-ROM
 * sudo -u postgres createuser -P alex
 * sudo -u postgres createdb -O alex -E UTF-8 alexdb
 
-* sudo vi /etc/postgresql/9.1/main/pg_hba.conf
-    ``local alexdb alex md5``
-    Alle anderen Verbindungsmöglichkeiten (nicht Superuser) aus kommentieren.
+* | sudo vi /etc/postgresql/9.3/main/pg_hba.conf
+  | ``local alexdb alex md5``
+  | Alle anderen Verbindungsmöglichkeiten (nicht Superuser) aus kommentieren.
+
 * sudo /etc/init.d/postgresql restart
 
 Update Python from 2.7.6 to Python 2.7.10
