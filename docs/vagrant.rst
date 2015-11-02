@@ -84,3 +84,6 @@ Update Python from 2.7.6 to Python 2.7.10
 * ./configure
 * make
 * sudo make install
+
+* https://www.digitalocean.com/community/tutorials/how-to-install-neo4j-on-an-ubuntu-vps
+

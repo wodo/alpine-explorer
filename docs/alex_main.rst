@@ -21,7 +21,7 @@ Technik
 * jQuery (lightweight, "write less, do more", JavaScript Bibliothek)
 * Twitter Bootstrap (Frontend Framework)
 * Postgresql (Relationale Datenbank, dynamische Inhalte, Volltextsuche)
-* neo4j (Graphdatenbank, ohne Schemazwang)
+* neo4j (Graphendatenbank, ohne Schemazwang)
 
 Inhalte
 =======
