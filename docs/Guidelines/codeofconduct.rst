@@ -1,4 +1,4 @@
-﻿.. _guidelines.coc:
+﻿.. _guidelines.codeofconduct:
 
 ===============
 Verhaltenskodex
@@ -30,3 +30,8 @@ Wenn wir unterschiedlicher Meinung sind, dann bringen wir unsere Belange höflic
 Insgesamt sind wir gut und freundlich zueinander.
 Wir leisten unseren Beitrag zu dieser Gemeinschaft nicht, weil wir müssen, sondern weil wir es freiwillig wollen.
 Wenn wir uns daran erinnern, werden uns diese Richtlinien ganz natürlich vorkommen.
+
+.. note::
+   | Dieser Text lehnt sich an den "Python Community Code of Conduct" der Python Software Foundation aus dem April 2013 an.
+   | Das offizielle Dokument findet sich unter https://hg.python.org/coc/rev/689163936c9d
+

@@ -5,7 +5,9 @@ Leitlinien
 ==========
 
 .. toctree::
+   :maxdepth: 1
 
    codeofconduct
-   coding
+   filesystem
+   Coding/coding
 

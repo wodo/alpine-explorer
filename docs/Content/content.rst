@@ -1,8 +1,8 @@
 ﻿.. _content:
 
-=======
-Inhalte
-=======
+======
+Themen
+======
 
 .. toctree::
 
