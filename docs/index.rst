@@ -39,7 +39,7 @@ diese neuen Informationen wieder zur Verfügung stellen und so den Fundus verbes
 Neugierig geworden? Im Info-Knoten :ref:`Mitmachen <contribute>` findest Du einige Möglichkeiten wie Du dazu beitragen kannst,
 eine solche Applikation bald auch auf Deinen Touren zum Einsatz zu bringen.
 
-Alles wissenswerte über das Projekt Alpine-Explorer findest Du über Info-Knoten :ref:`documentation`.
+Alles Wissenswerte über den Alpine-Explorer findest Du im Info-Knoten :ref:`Dokumentation <documentation>`.
 
 Überblick
 =========
