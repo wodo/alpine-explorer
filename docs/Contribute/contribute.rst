@@ -45,7 +45,7 @@ Kennst Du jemanden der noch nie etwas von Alpine-Explorer gehört hat oder die A
 
 Das Projekt Alpine-Explorer lebt von Menschen wie Dir, die Daten sammeln und diese für die mobile Applikation ALeX aufbereiten und zur Verfügung stellen. Hilfe bei der Entwicklung von Internetauftritt, Datenbank und Applikation ist der beste Weg für Dich, sicherzustellen das ALeX das bereitstellt was Du von ihm bei Deinem nächsten Outdoor Abenteuer an Informationen und Service benötigst.
 
-:ref:`Finde heraus wie Du bei Alpine-Explorer bei der Entwicklung von Internetauftritt, Datenbank und Applikation mithelfen kannst. <contribute.development>`
+:ref:`Finde heraus wie Du bei Alpine-Explorer bei der Entwicklung von Internetauftritt, Datenbank und Applikation mithelfen kannst. <contribute-development>`
 
 **Gestaltung**
 

@@ -10,4 +10,4 @@ Literaturverzeichnis
 
 * `Wikipedia:Literaturverzeichnis <https://de.wikipedia.org/wiki/Literaturverzeichnis>`__
 
-* :ref:`alpenatlas`
+* :ref:`book-alpenatlas`
