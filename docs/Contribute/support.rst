@@ -3,5 +3,5 @@
 .. _contribute.support:
 
 ==============================
-Unterstützung anderer Besucher
+Unterstützung anderer Anwender
 ==============================

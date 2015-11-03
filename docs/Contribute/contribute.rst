@@ -10,12 +10,12 @@ Freiwillige Mitarbeiter aus allen beruflichen Zweigen und gesellschaftlichen Ber
 
 Du kannst Dich auf vielfältige Art und Weise an diesem Projekt beteiligen:
 
-**Unterstützung anderer Besucher**
+**Unterstützung anderer Anwender**
 
-Die begabtesten Redakteure und Entwickler bei Alpine-Explorer waren einmal Neulinge und haben die Unterstützung anderer Besucher sehr begrüßt. Durch diese Hilfe wurden immer wieder kleinere oder größere Fortschritte in deren Entwicklung ermöglicht. Egal wie viel Erfahrung Du heute mit dem Projekt hast, Du kannst Dein vorhandenes Wissen mit denen teilen, die Deine Unterstützung brauchen.
+Die begabtesten Redakteure und Entwickler bei Alpine-Explorer waren einmal Neulinge und haben die Unterstützung anderer Anwender sehr begrüßt. Durch diese Hilfe wurden immer wieder kleinere oder größere Fortschritte in deren Entwicklung ermöglicht. Egal wie viel Erfahrung Du heute mit dem Projekt hast, Du kannst Dein vorhandenes Wissen mit denen teilen, die Deine Unterstützung brauchen.
 Das bringt viel Freude! Wer weiß, am Ende lernst auch Du noch etwas dazu.
 
-:ref:`Finde heraus was Du bei Alpine-Explorer für die Unterstützung von anderen Besuchern tun kannst. <contribute.support>`
+:ref:`Finde heraus was Du bei Alpine-Explorer für die Unterstützung von anderen Anwender tun kannst. <contribute.support>`
 
 **Dokumentation**
 
