@@ -53,8 +53,8 @@ Hast Du ein Auge für das gefällige Zusammenspiel aus Farben und Formen für Gr
 
 :ref:`Finde heraus wie Du bei Alpine-Explorer Deine gestalterischen Talente einbringen kannst. <contribute.design>`
 
-**Werbung**
+**Öffentlichkeitsarbeit**
 
 Je bekannter unser Projekt Alpine-Explorer wird um so leichter fällt es, die enorme Menge an Aufgaben auf viele Schultern zu verteilen und neue wertvolle Vorschläge zur Verbesserung unserer Arbeiten zu erhalten. Bringe Deine Fähigkeiten ein und sorge z.B. durch Zeitungsartikel, Mundpropaganda, Interviews oder Hyperlinks dafür, das man von uns spricht.
 
-:ref:`Finde heraus wie Du Deine Fähigkeiten zur Erhöhung des Bekanntheitsgrades von Alpine-Explorer einbringen kannst. <contribute.marketing>`
+:ref:`Finde heraus wie Du Deine Fähigkeiten zur Erhöhung des Bekanntheitsgrades von Alpine-Explorer einbringen kannst. <contribute.publicity>`

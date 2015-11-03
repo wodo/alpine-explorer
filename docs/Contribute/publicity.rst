@@ -1,7 +1,7 @@
 ﻿:orphan:
 
-.. _contribute.marketing:
+.. _contribute.publicity:
 
-=======
-Werbung
-=======
+=====================
+Öffentlichkeitsarbeit
+=====================
