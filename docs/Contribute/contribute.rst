@@ -6,7 +6,9 @@ Mach mit bei Alpine-Explorer!
 
 Vielen Dank für Dein Interesse am Projekt Alpine-Explorer mit zu arbeiten!
 
-Freiwillige Mitarbeiter aus allen beruflichen Zweigen und gesellschaftlichen Bereichen sind das große Kapital von Alpine-Explorer. Bitte mache Dich mit unseren Zielen und :ref:`Leitlinien <guidelines>` vertraut. So kannst Du Deine Fähigkeiten im Einklang mit den anderen Mitgliedern unseres Teams am besten einbringen.
+| Freiwillige Mitarbeiter aus allen beruflichen Zweigen und gesellschaftlichen Bereichen sind das große Kapital von Alpine-Explorer.
+| Bitte mache Dich mit unseren Zielen und :ref:`Leitlinien <guidelines>` vertraut. So kannst Du Deine Fähigkeiten im Einklang mit den anderen
+  Mitgliedern unseres Teams am besten einbringen.
 
 Du kannst Dich auf vielfältige Art und Weise an diesem Projekt beteiligen:
 
