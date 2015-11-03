@@ -1,8 +1,8 @@
-﻿.. _documentation:
+﻿.. _manual:
 
-=============
-Dokumentation
-=============
+==========
+Handbücher
+==========
 
 Diese Dokumentation ist als eine Sammlung von \*.rst Dateien organisiert. Sie ist das gemeinsame Werk vieler Helfer im Redaktionsteam, welche bereit sind Ihre Zeit und Ihre Fähigkeiten in dieses Projekt mit ein zu bringen. Die Datensicherung und Versionsverwaltung erfolgt über `GitHub <github_>`_
 
