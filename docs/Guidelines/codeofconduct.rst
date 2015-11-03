@@ -16,7 +16,7 @@ oder auf andere Art und Weise.
 Wir sind offen für konstruktive Kommentare und Kritik, sowie für die Erfahrungen und Fähigkeiten der anderen Mitglieder, weil sie zur Gesamtheit aller unserer Bemühungen beitragen.
 Wir akzeptieren alle, die an unseren Aktivitäten teilnehmen. Wir wollen ein Umfeld fördern, in dem sich jeder einbringen und jeder etwas Besonderes bewirken kann.
 
-**Freundlichkeit**
+**Rücksicht**
 
 Mitglieder unserer Gemeinschaft nehmen Rücksicht auf ihr Gegenüber - andere Alpine-Explorer Mitarbeiter oder Besucher.
 Wir gehen behutsam mit den Bemühungen der Anderen um, weil wir annehmen das sie ihren Einsatz nur zum Wohle der Gemeinschaft erbracht haben.

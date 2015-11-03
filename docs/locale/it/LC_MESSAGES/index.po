@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, Wolfgang Doll
 # This file is distributed under the same license as the Alpine-Explorer package.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
@@ -17,26 +17,135 @@ msgstr ""
 "Language: it\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../index.rst:7
+#: ../../index.rst:8
 msgid "Alpine-Explorer"
 msgstr ""
 
-#: ../../index.rst:9
-msgid "Inhalt:"
-msgstr ""
-
-#: ../../index.rst:18
+#: ../../index.rst:58
 msgid "Verzeichnisse"
 msgstr ""
 
-#: ../../index.rst:20
+#: ../../index.rst:60
 msgid ":ref:`genindex`"
 msgstr ""
 
-#: ../../index.rst:21
-msgid ":ref:`modindex`"
+#: ../../index.rst:64
+msgid ":ref:`search`"
+msgstr ""
+
+#: ../../index.rst:10
+msgid ""
+"Dieses mehrsprachige Gemeinschaftsprojekt soll detaillierte Informationen "
+"aus möglichst vielen Bereichen des europäischen Alpenraums anbieten."
+msgstr ""
+
+#: ../../index.rst:12
+msgid ""
+"Die Aufbereitung dieser :ref:`Inhalte <content>` für die Verwendung durch "
+"eine mobile Applikation mit Namen ALeX ist ein Hauptanliegen dieses "
+"Projektes."
+msgstr ""
+
+#: ../../index.rst:14
+msgid ""
+"Auf vielen Unternehmungen im europäischen Alpenraum durchstreifen wir oft "
+"nicht nur gut unbekannte Gebiete. Da drängen sich uns viele Fragen auf."
+msgstr ""
+
+#: ../../index.rst:16
+msgid "Die Namen der Nachbargipfel und der angrenzenden Gebirgsgruppen."
+msgstr ""
+
+#: ../../index.rst:17
+msgid "Wo beginnt das Nachbarland?"
+msgstr ""
+
+#: ../../index.rst:18
+msgid "Welche Sprache sprechen die Menschen hier?"
+msgstr ""
+
+#: ../../index.rst:19
+msgid ""
+"Wie hoch ist der höchste Gipfel in der Umgebung und in welcher Richtung ist "
+"er zu sehen?"
+msgstr ""
+
+#: ../../index.rst:20
+msgid "..."
 msgstr ""
 
 #: ../../index.rst:22
-msgid ":ref:`search`"
+msgid ""
+"Wäre es in diesen Augenblicken nicht wunderbar, die Möglichkeit zu haben ein"
+" kleines Gerät (z.B. ein SmartPhone) aus der Tasche zu ziehen und alle die "
+"benötigten Informationen zu erhalten?"
 msgstr ""
+
+#: ../../index.rst:25
+msgid ""
+"Diese und viele andere Fragen, die uns auf unseren Unternehmungen im Freien "
+"in den Kopf kommen, soll die mobile Applikation ALeX beantworten helfen."
+msgstr ""
+
+#: ../../index.rst:27
+msgid ""
+"Warum aber brauchen wir dafür eine besondere Applikation? Wikipedia, "
+"OpenStreetMap und Google liefern doch in Bruchteilen einer Sekunde alle "
+"gewünschten Informationen über das Internet?"
+msgstr ""
+
+#: ../../index.rst:30
+msgid ""
+"Genau hier greift die Idee, die Dich zu ALeX führen soll. Es ist wichtig das"
+" in der rauen Umgebung der Alpen alle Daten auch ohne Verbindung zum "
+"Internet zur Verfügung stehen und es ist wichtig das die Datenmenge auch der"
+" Speicherkapazität Deines mobilen Gerätes angepasst ist. Bei der "
+"Tourenvorbereitung sollst Du einfach und übersichtlich die notwendigen Daten"
+" eingrenzen können und reibungslos auf Dein mobiles Gerät überspielen "
+"können."
+msgstr ""
+
+#: ../../index.rst:34
+msgid ""
+"Damit bekommen unsere nächstes Bergabenteuer eine vollständig andere "
+"Färbung. Wir können die vorbereiteten Informationen mit den Teilnehmern "
+"unserer Gruppe teilen und neue, für uns wichtige Informationen ergänzen. "
+"Sobald für uns wieder eine Internet-Verbindung besteht, können wir der "
+"Gemeinschaft um das Alpine-Explorer Projekt, diese neuen Informationen "
+"wieder zur Verfügung stellen und so den Fundus verbessern."
+msgstr ""
+
+#: ../../index.rst:39
+msgid ""
+"Neugierig geworden? Im Info-Knoten :ref:`Mitmachen <contribute>` findest Du "
+"einige Möglichkeiten wie Du dazu beitragen kannst, eine solche Applikation "
+"bald auch auf Deinen Touren zum Einsatz zu bringen."
+msgstr ""
+
+#: ../../index.rst:42
+msgid ""
+"Alles Wissenswerte über den Alpine-Explorer findest Du im Info-Knoten "
+":ref:`Dokumentation <documentation>`."
+msgstr ""
+
+#: ../../index.rst:45
+msgid "Überblick"
+msgstr ""
+
+#: ../../index.rst:61
+msgid ":ref:`glossary`"
+msgstr ""
+
+#: ../../index.rst:62
+msgid ":ref:`weblink`"
+msgstr ""
+
+#: ../../index.rst:63
+msgid ":ref:`bibliography`"
+msgstr ""
+
+#~ msgid "Inhalt:"
+#~ msgstr ""
+
+#~ msgid ":ref:`modindex`"
+#~ msgstr ""

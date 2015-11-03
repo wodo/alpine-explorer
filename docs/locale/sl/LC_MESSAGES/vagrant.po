@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, Wolfgang Doll
 # This file is distributed under the same license as the Alpine-Explorer package.
-# 
+#
 # Translators:
 msgid ""
 msgstr ""
@@ -209,4 +209,10 @@ msgstr ""
 
 #: ../../vagrant.rst:86
 msgid "sudo make install"
+msgstr ""
+
+#: ../../vagrant.rst:88
+msgid ""
+"https://www.digitalocean.com/community/tutorials/how-to-install-neo4j-on-an-"
+"ubuntu-vps"
 msgstr ""

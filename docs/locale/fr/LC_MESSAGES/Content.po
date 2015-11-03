@@ -1,0 +1,255 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Alpine-Explorer 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-03 05:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../Content/Book/alpenatlas.rst:6
+msgid "Alpenatlas"
+msgstr ""
+
+#: ../../Content/Book/alpenatlas.rst:8
+msgid ""
+"Alpenatlas / Atlas des Alps / Atlante delle Alpi / Atlas Alp / Mapping the "
+"Alps: Society - Economy - Environment"
+msgstr ""
+
+#: ../../Content/Book/alpenatlas.rst:9
+msgid "Buch"
+msgstr ""
+
+#: ../../Content/Book/alpenatlas.rst:10
+msgid "2008"
+msgstr ""
+
+#: ../../Content/Book/alpenatlas.rst:11
+msgid "Urike Tappeiner, Axel Borsdorf, Erich Tasser"
+msgstr ""
+
+#: ../../Content/Book/alpenatlas.rst:12
+msgid "Spektrum Akademischer Verlag"
+msgstr ""
+
+#: ../../Content/Book/alpenatlas.rst:13
+msgid "Heidelberg, Deutschland"
+msgstr ""
+
+#: ../../Content/Book/alpenatlas.rst:14
+msgid "978-3-8274-2004-6"
+msgstr ""
+
+#: ../../Content/Book/alpenatlas.rst:15
+msgid ""
+"Dieser vierfarbig bebilderte Atlas befasst sich in 5 Sprachen (Deutsch, "
+"Französisch, Italienisch, Slowenisch und Englisch) mit der Struktur und den "
+"Prozessen im Alpenraum. Ein besonderer Schwerpunkt liegt auf Aussagen zur "
+"Nachhaltigkeit, wofür ausgewählte Indikatoren aus dem Bereich Soziales, "
+"Wirtschaft und Umwelt zu Rate gezogen werden. Das Autorenteam: Ulrike "
+"Tappeiner ist Leiterin des Instituts für Alpine Umwelt an der Europäischen "
+"Akademie Bozen/Bolzano (EURAC) und Leiterin des Instituts für Ökologie der "
+"Universität Innsbruck. Axel Borsdorf ist Professor für Geographie an der "
+"Universität Innsbruck und zudem Direktor der Forschungsstelle für "
+"Gebirgsforschung: Mensch und Umwelt der Österreichischen Akademie der "
+"Wissenschaften sowie Buchautor bei SAV. Erich Tasser arbeitet als "
+"Wissenschaftler am Institut für Alpine Umwelt der Europischen Akademie "
+"Bozen/Bolzano (EURAC). Circa 30 weitere Wissenschaftler haben an diesem Buch"
+" mitgewirkt."
+msgstr ""
+
+#: ../../Content/Book/alpenatlas.rst:28
+msgid "`Diamont:Alpenatlas <http://www.uibk.ac.at/diamont/home.htm>`__"
+msgstr ""
+
+#: ../../Content/Book/book.rst:5
+msgid "Bücher"
+msgstr ""
+
+#: ../../Content/Concept/alpine_convention.rst:7
+msgid "Alpenkonvention"
+msgstr ""
+
+#: ../../Content/Concept/alpine_convention.rst:9
+msgid ""
+"`Wikipedia:Alpenkonvention "
+"<https://de.wikipedia.org/wiki/Alpenkonvention>`__"
+msgstr ""
+
+#: ../../Content/Concept/alpine_states.rst:7
+msgid "Alpenländer"
+msgstr ""
+
+#: ../../Content/Concept/alpine_states.rst:9
+msgid "`Wikipedia:Alpenländer <https://de.wikipedia.org/wiki/Alpenländer>`__"
+msgstr ""
+
+#: ../../Content/Concept/alps.rst:7
+msgid "Alpen"
+msgstr ""
+
+#: ../../Content/Concept/alps.rst:9
+msgid "`Wikipedia:Alpen <https://de.wikipedia.org/wiki/Alpen>`__"
+msgstr ""
+
+#: ../../Content/Concept/concept.rst:5
+msgid "Begriffe"
+msgstr ""
+
+#: ../../Content/Country/austria.rst:7
+msgid "Österreich"
+msgstr ""
+
+#: ../../Content/Country/austria.rst:9
+msgid "`Wikipedia:Österreich <https://de.wikipedia.org/wiki/Österreich>`__"
+msgstr ""
+
+#: ../../Content/Country/country.rst:5
+msgid "Länder"
+msgstr ""
+
+#: ../../Content/Country/france.rst:7
+msgid "Frankreich"
+msgstr ""
+
+#: ../../Content/Country/france.rst:9
+msgid "`Wikipedia:Frankreich <https://de.wikipedia.org/wiki/Frankreich>`__"
+msgstr ""
+
+#: ../../Content/Country/germany.rst:7
+msgid "Deutschland"
+msgstr ""
+
+#: ../../Content/Country/germany.rst:9
+msgid "`Wikipedia:Deutschland <https://de.wikipedia.org/wiki/Deutschland>`__"
+msgstr ""
+
+#: ../../Content/Country/italy.rst:7
+msgid "Italien"
+msgstr ""
+
+#: ../../Content/Country/italy.rst:9
+msgid "`Wikipedia:Italien <https://de.wikipedia.org/wiki/Italien>`__"
+msgstr ""
+
+#: ../../Content/Country/liechtenstein.rst:7
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../../Content/Country/liechtenstein.rst:9
+msgid ""
+"`Wikipedia:Liechtenstein <https://de.wikipedia.org/wiki/Liechtenstein>`__"
+msgstr ""
+
+#: ../../Content/Country/monaco.rst:7
+msgid "Monaco"
+msgstr ""
+
+#: ../../Content/Country/monaco.rst:9
+msgid "`Wikipedia:Monaco <https://de.wikipedia.org/wiki/Monaco>`__"
+msgstr ""
+
+#: ../../Content/Country/slovenia.rst:7
+msgid "Slowenien"
+msgstr ""
+
+#: ../../Content/Country/slovenia.rst:9
+msgid "`Wikipedia:Slowenien <https://de.wikipedia.org/wiki/Slowenien>`__"
+msgstr ""
+
+#: ../../Content/Country/switzerland.rst:7
+msgid "Schweiz"
+msgstr ""
+
+#: ../../Content/Country/switzerland.rst:9
+msgid "`Wikipedia:Schweiz <https://de.wikipedia.org/wiki/Schweiz>`__"
+msgstr ""
+
+#: ../../Content/Human/human.rst:5
+msgid "Menschen"
+msgstr ""
+
+#: ../../Content/Language/language.rst:5
+msgid "Sprachen"
+msgstr ""
+
+#: ../../Content/Map/ign-3534-ot.rst:6
+msgid "Carte de Randonnée 3534 OT"
+msgstr ""
+
+#: ../../Content/Map/ign-3534-ot.rst:8
+msgid "LES TROIS VALLÉES / MODANE / PARC NATIONAL DE LA VANOISE"
+msgstr ""
+
+#: ../../Content/Map/ign-3534-ot.rst:9
+msgid "1:25000"
+msgstr ""
+
+#: ../../Content/Map/map.rst:5
+msgid "Karten"
+msgstr ""
+
+#: ../../Content/Place/place.rst:5
+msgid "Örtlichkeiten"
+msgstr ""
+
+#: ../../Content/Weblink/neo4j.rst:6
+msgid "Neo4j"
+msgstr ""
+
+#: ../../Content/Weblink/neo4j.rst:8
+msgid "`Wikipedia:Neo4j <https://de.wikipedia.org/wiki/Neo4j>`__"
+msgstr ""
+
+#: ../../Content/Weblink/weblink.rst:6
+msgid "Internet Links"
+msgstr ""
+
+#: ../../Content/bibliography.rst:8
+msgid "Literaturverzeichnis"
+msgstr ""
+
+#: ../../Content/bibliography.rst:10
+msgid ""
+"`Wikipedia:Literaturverzeichnis "
+"<https://de.wikipedia.org/wiki/Literaturverzeichnis>`__"
+msgstr ""
+
+#: ../../Content/bibliography.rst:12
+msgid ":ref:`alpenatlas`"
+msgstr ""
+
+#: ../../Content/content.rst:5
+msgid "Themen"
+msgstr ""
+
+#: ../../Content/glossary.rst:8
+msgid "Begriffsklärungen"
+msgstr ""
+
+#: ../../Content/glossary.rst:10
+msgid ""
+"`Wikipedia:Begriffsklärung "
+"<https://de.wikipedia.org/wiki/Wikipedia:Begriffsklärung>`__"
+msgstr ""
+
+#: ../../Content/glossary.rst:13
+msgid "Graphendatenbank"
+msgstr ""
+
+#: ../../Content/glossary.rst:15
+msgid ""
+"Eine Graphdatenbank (oder graphenorientierte Datenbank) ist eine Datenbank, "
+"die Graphen benutzt, um stark vernetzte Informationen darzustellen und "
+"abzuspeichern."
+msgstr ""
+
+#: ../../Content/glossary.rst:18
+msgid ""
+"`Wkipedia:Graphendatenbank <https://de.wikipedia.org/wiki/Graphdatenbank>`__"
+msgstr ""

@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, Wolfgang Doll
 # This file is distributed under the same license as the Alpine-Explorer package.
-# 
+#
 # Translators:
 # Wolfgang Doll <Wolfgang.doll@web.de>, 2015
 msgid ""
@@ -63,7 +63,10 @@ msgid ""
 "Insert the VBoxGuestAdditions.iso CD file into your Linux guest's virtual "
 "CD-ROM drive "
 "(Applications/VirtualBox.app/Contents/MacOS/VBoxGuestAdditions.iso)"
-msgstr "Insert the VBoxGuestAdditions.iso CD file into your Linux guest's virtual CD-ROM drive (Applications/VirtualBox.app/Contents/MacOS/VBoxGuestAdditions.iso)"
+msgstr ""
+"Insert the VBoxGuestAdditions.iso CD file into your Linux guest's virtual "
+"CD-ROM drive "
+"(Applications/VirtualBox.app/Contents/MacOS/VBoxGuestAdditions.iso)"
 
 #: ../../vagrant.rst:21
 msgid "sudo mount /dev/dvd /media/cdrom"
@@ -186,7 +189,9 @@ msgstr "sudo apt-get build-dep python2.7"
 msgid ""
 "sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev "
 "libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev"
-msgstr "sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev"
+msgstr ""
+"sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev "
+"libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev"
 
 #: ../../vagrant.rst:81
 msgid "cd /vagrant"
@@ -211,3 +216,9 @@ msgstr "make"
 #: ../../vagrant.rst:86
 msgid "sudo make install"
 msgstr "sudo make install"
+
+#: ../../vagrant.rst:88
+msgid ""
+"https://www.digitalocean.com/community/tutorials/how-to-install-neo4j-on-an-"
+"ubuntu-vps"
+msgstr ""

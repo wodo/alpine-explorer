@@ -17,3 +17,18 @@ file_filter = locale/<lang>/LC_MESSAGES/vagrant.po
 source_file = _build/locale/vagrant.pot
 source_lang = de
 
+[al-ex.contributepot]
+file_filter = locale/<lang>/LC_MESSAGES/Contribute.po
+source_file = _build/locale/Contribute.pot
+source_lang = de
+
+[al-ex.documentationpot]
+file_filter = locale/<lang>/LC_MESSAGES/Documentation.po
+source_file = _build/locale/Documentation.pot
+source_lang = de
+
+[al-ex.guidelinespot]
+file_filter = locale/<lang>/LC_MESSAGES/Guidelines.po
+source_file = _build/locale/Guidelines.pot
+source_lang = de
+

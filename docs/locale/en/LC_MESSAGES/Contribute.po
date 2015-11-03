@@ -1,0 +1,235 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, Wolfgang Doll
+# This file is distributed under the same license as the Alpine-Explorer package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: ALeX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-03 06:28+0000\n"
+"PO-Revision-Date: 2015-11-03 06:13+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: English (http://www.transifex.com/alpine-explorer/al-ex/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../Contribute/contribute.rst:5
+msgid "Mach mit bei Alpine-Explorer!"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:7
+msgid ""
+"Vielen Dank für Dein Interesse am Projekt Alpine-Explorer mit zu arbeiten!"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:9
+msgid ""
+"Freiwillige Mitarbeiter aus allen beruflichen Zweigen und gesellschaftlichen"
+" Bereichen sind das große Kapital von Alpine-Explorer. Bitte mache Dich mit "
+"unseren Zielen und :ref:`Leitlinien <guidelines>` vertraut. So kannst Du "
+"Deine Fähigkeiten im Einklang mit den anderen Mitgliedern unseres Teams am "
+"besten einbringen."
+msgstr ""
+
+#: ../../Contribute/contribute.rst:11
+msgid ""
+"Du kannst Dich auf vielfältige Art und Weise an diesem Projekt beteiligen:"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:13
+msgid "**Unterstützung anderer Besucher**"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:15
+msgid ""
+"Die begabtesten Redakteure und Entwickler bei Alpine-Explorer waren einmal "
+"Neulinge und haben die Unterstützung anderer Besucher sehr begrüßt. Durch "
+"diese Hilfe wurden immer wieder kleinere oder größere Fortschritte in deren "
+"Entwicklung ermöglicht. Egal wie viel Erfahrung Du heute mit dem Projekt "
+"hast, Du kannst Dein vorhandenes Wissen mit denen teilen, die Deine "
+"Unterstützung brauchen. Das bringt viel Freude! Wer weiß, am Ende lernst "
+"auch Du noch etwas dazu."
+msgstr ""
+
+#: ../../Contribute/contribute.rst:18
+msgid ""
+":ref:`Finde heraus was Du bei Alpine-Explorer für die Unterstützung von "
+"anderen Besuchern tun kannst. <contribute.support>`"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:20
+msgid "**Dokumentation**"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:22
+msgid ""
+"Hast du die Gabe kleinste Details zuverlässig zu dokumentieren oder möchtest"
+" Du lieber die großen Zusammenhänge für unsere Handbücher zusammenfassend "
+"beschreiben? Kannst Du ohne viel Aufwand vorgegebene Strukturen durch "
+"einfache Bilder veranschaulichen oder in multimediale Szenen darstellen, wie"
+" ALeX arbeitet und wie das alles mit dem Projekt Alpine-Explorer "
+"zusammenhängt? Auf jeden Fall kannst Du dazu beitragen unsere Dokumentation "
+"besser zu gestalten und so ein wertvolles Nachschlagewerk für unser Projekt "
+"ergänzen."
+msgstr ""
+
+#: ../../Contribute/contribute.rst:24
+msgid ""
+":ref:`Finde heraus wie Du bei Alpine-Explorer die Dokumentation verbessern "
+"kannst. <contribute.documentation>`"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:26
+msgid "**Übersetzungen**"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:28
+msgid ""
+"Unser Projekt will die Menschen des europäischen Alpenraumes einladen in "
+"Ihrer Muttersprache Informationen zu Ihrer Umgebung zur Verfügung zu "
+"stellen. Wenn Du neben Deiner eigenen Muttersprache eine der anderen "
+"Sprachen gut beherrscht, kannst Du uns helfen die entsprechenden "
+"Informationen in Deine Muttersprache zu übersetzen."
+msgstr ""
+
+#: ../../Contribute/contribute.rst:30
+msgid ""
+":ref:`Finde heraus wie Du bei Alpine-Explorer an der Übersetzung von "
+"Informationen mithelfen kannst. <contribute.translation>`"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:32
+msgid "**Test**"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:34
+msgid ""
+"Hast Du ein feines Auge für die Kleinigkeiten oder allgemein ein Geschick "
+"für Dinge die schief gehen könnten? Das Projekt Alpine-Explorer braucht "
+"Unterstützung im Test des Internet Auftritts und beim Test der Applikation "
+"ALeX. Geschicktes testen verbessert die Qualität und ist ein guter Weg für "
+"Menschen aus den unterschiedlichsten beruflichen und gesellschaftlichen "
+"Bereichen einen großartigen Beitrag zum Projekt zu leisten."
+msgstr ""
+
+#: ../../Contribute/contribute.rst:36
+msgid ""
+":ref:`Finde heraus wie Du bei Alpine-Explorer mit Deinen Tests die Qualität "
+"steigern kannst. <contribute.test>`"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:38
+msgid "**Benutzerfreundlichkeit und Bedienbarkeit**"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:40
+msgid ""
+"Kennst Du jemanden der noch nie etwas von Alpine-Explorer gehört hat oder "
+"die Applikation ALeX noch nie benutzt hat? Bist Du selbst Neuling auf diesen"
+" Gebieten? Hast Du spezielles Wissen über die sinnvolle und einfache "
+"Handhabung eines Internetauftrittes oder von mobilen Applikationen? Hilf "
+"mit, unseren Internetauftritt und die Applikation ALeX so benutzerfreundlich"
+" wie möglich zu gestalten und eine einfache Bedienbarkeit sicher zustellen."
+msgstr ""
+
+#: ../../Contribute/contribute.rst:42
+msgid ""
+":ref:`Finde heraus was Du bei Alpine-Explorer für eine hohe "
+"Benutzerfreundlichkeit und einfachen Bedienbarkeit tun kannst. "
+"<contribute.usability>`"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:44
+msgid "**Entwicklung**"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:46
+msgid ""
+"Das Projekt Alpine-Explorer lebt von Menschen wie Dir, die Daten sammeln und"
+" diese für die mobile Applikation ALeX aufbereiten und zur Verfügung "
+"stellen. Hilfe bei der Entwicklung von Internetauftritt, Datenbank und "
+"Applikation ist der beste Weg für Dich, sicherzustellen das ALeX das "
+"bereitstellt was Du von ihm bei Deinem nächsten Outdoor Abenteuer an "
+"Informationen und Service benötigst."
+msgstr ""
+
+#: ../../Contribute/contribute.rst:48
+msgid ""
+":ref:`Finde heraus wie Du bei Alpine-Explorer bei der Entwicklung von "
+"Internetauftritt, Datenbank und Applikation mithelfen kannst. "
+"<contribute.development>`"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:50
+msgid "**Gestaltung**"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:52
+msgid ""
+"Hast Du ein Auge für das gefällige Zusammenspiel aus Farben und Formen für "
+"Grafik und Design. Bringe Deine Fähigkeiten ein und helfe mit, ein "
+"ansprechendes Logo und ein gutes Design für den Internetauftritt von Alpine-"
+"Explorer und die mobile Applikation ALeX zu finden."
+msgstr ""
+
+#: ../../Contribute/contribute.rst:54
+msgid ""
+":ref:`Finde heraus wie Du bei Alpine-Explorer Deine gestalterischen Talente "
+"einbringen kannst. <contribute.design>`"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:56
+msgid "**Werbung**"
+msgstr ""
+
+#: ../../Contribute/contribute.rst:58
+msgid ""
+"Je bekannter unser Projekt Alpine-Explorer wird um so leichter fällt es, die"
+" enorme Menge an Aufgaben auf viele Schultern zu verteilen und neue "
+"wertvolle Vorschläge zur Verbesserung unserer Arbeiten zu erhalten. Bringe "
+"Deine Fähigkeiten ein und sorge z.B. durch Zeitungsartikel, Mundpropaganda, "
+"Interviews oder Hyperlinks dafür, das man von uns spricht."
+msgstr ""
+
+#: ../../Contribute/contribute.rst:60
+msgid ""
+":ref:`Finde heraus wie Du Deine Fähigkeiten zur Erhöhung des "
+"Bekanntheitsgrades von Alpine-Explorer einbringen kannst. "
+"<contribute.marketing>`"
+msgstr ""
+
+#: ../../Contribute/design.rst:7
+msgid "Gestaltung"
+msgstr ""
+
+#: ../../Contribute/development.rst:7
+msgid "Entwicklung"
+msgstr ""
+
+#: ../../Contribute/documentation.rst:7
+msgid "Dokumentation"
+msgstr ""
+
+#: ../../Contribute/marketing.rst:7
+msgid "Werbung"
+msgstr ""
+
+#: ../../Contribute/support.rst:7
+msgid "Unterstützung anderer Besucher"
+msgstr ""
+
+#: ../../Contribute/test.rst:7
+msgid "Test"
+msgstr ""
+
+#: ../../Contribute/translation.rst:7
+msgid "Übersetzung - Lokalisierung"
+msgstr ""
+
+#: ../../Contribute/usability.rst:7
+msgid "Benutzerfreundlichkeit und Bedienbarkeit"
+msgstr ""

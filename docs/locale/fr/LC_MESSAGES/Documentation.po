@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, Wolfgang Doll
+# This file is distributed under the same license as the Alpine-Explorer package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: ALeX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-03 06:28+0000\n"
+"PO-Revision-Date: 2015-11-03 06:13+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French (http://www.transifex.com/alpine-explorer/al-ex/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../../Documentation/documentation.rst:5
+msgid "Dokumentation"
+msgstr ""
+
+#: ../../Documentation/documentation.rst:7
+msgid ""
+"Diese Dokumentation ist als eine Sammlung von \\*.rst Dateien organisiert. "
+"Sie ist das gemeinsame Werk vieler Helfer im Redaktionsteam, welche bereit "
+"sind Ihre Zeit und Ihre Fähigkeiten in dieses Projekt mit ein zu bringen. "
+"Die Datensicherung und Versionsverwaltung erfolgt über `GitHub <github_>`_"
+msgstr ""
+
+#: ../../Documentation/documentation.rst:9
+msgid ""
+"Bitte hilf auch Du mit die Dokumentation noch besser zu gestalten. Zu jeder "
+"Seite kannst Du auf GitHub in unserem `Wiki <wiki_>`_ Deinen persönlichen "
+"Kommentar hinzufügen und so konstruktive Kritik üben oder auf die Kritik "
+"anderer Besucher reagieren. Das Redaktionsteam wird sich bemühen Deine "
+"Vorschläge zu berücksichtigen."
+msgstr ""
+
+#: ../../Documentation/documentation.rst:11
+msgid ""
+"Wünsche und Verbesserungsvorschläge sowie Deine Hinweise auf Fehler können "
+"auf GitHub von Dir in unseren `Tracker <issues_>`_ eingetragen werden."
+msgstr ""
+
+#: ../../Documentation/documentation.rst:13
+msgid ""
+"Du möchtest selbst Mitglied im Redaktionsteam werden und uns unterstützen? "
+"Unter dem Info-Knoten :ref:`Mitmachen <contribute>` findest Du alle weiteren"
+" dafür notwendigen Informationen."
+msgstr ""

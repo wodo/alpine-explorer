@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2015, Wolfgang Doll
 # This file is distributed under the same license as the Alpine-Explorer package.
-# 
+#
 # Translators:
 # Wolfgang Doll <Wolfgang.doll@web.de>, 2015
 msgid ""
@@ -74,10 +74,6 @@ msgstr "Twitter Bootstrap (Frontend Framework)"
 msgid "Postgresql (Relationale Datenbank, dynamische Inhalte, Volltextsuche)"
 msgstr "Postgresql (relationale database, dynamic content, full text search)"
 
-#: ../../alex_main.rst:24
-msgid "neo4j (Graphdatenbank, ohne Schemazwang)"
-msgstr "neo4j (graph database, schema less)"
-
 #: ../../alex_main.rst:27
 msgid "Inhalte"
 msgstr "Content"
@@ -133,3 +129,11 @@ msgstr ""
 #: ../../alex_main.rst:45
 msgid "Sattelpunkte"
 msgstr ""
+
+#: ../../alex_main.rst:24
+#, fuzzy
+msgid "neo4j (Graphendatenbank, ohne Schemazwang)"
+msgstr "neo4j (graph database, schema less)"
+
+#~ msgid "neo4j (Graphdatenbank, ohne Schemazwang)"
+#~ msgstr "neo4j (graph database, schema less)"
