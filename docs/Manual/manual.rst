@@ -26,4 +26,4 @@ Du möchtest selbst Mitglied im Redaktionsteam werden und uns unterstützen? Unt
    design
    support
    usability
-   marketing
+   publicity
