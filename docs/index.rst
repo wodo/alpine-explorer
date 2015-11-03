@@ -47,10 +47,10 @@ Alles Wissenswerte über den Alpine-Explorer findest Du im Info-Knoten :ref:`Dok
 .. toctree::
    :maxdepth: 1
 
-   Manual/manual
-   Mitmachen <Contribute/contribute>
    Content/content
+   Mitmachen <Contribute/contribute>
    Guidelines/guidelines
+   Manual/manual
    alex_main
    vagrant
 
