@@ -1,0 +1,5 @@
+﻿.. _manual.documentation:
+
+=============
+Dokumentation
+=============

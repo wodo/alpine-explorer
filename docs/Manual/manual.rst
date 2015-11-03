@@ -16,3 +16,13 @@ Du möchtest selbst Mitglied im Redaktionsteam werden und uns unterstützen? Unt
 .. _wiki: https://github.com/wodo/alpine-explorer/wiki
 .. _issues: https://github.com/wodo/alpine-explorer/issues
 
+.. toctree::
+
+   development
+   test
+   documentation
+   translation
+   design
+   support
+   usability
+   marketing
