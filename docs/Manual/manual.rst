@@ -17,6 +17,7 @@ Du möchtest selbst Mitglied im Redaktionsteam werden und uns unterstützen? Unt
 .. _issues: https://github.com/wodo/alpine-explorer/issues
 
 .. toctree::
+   :maxdepth: 1
 
    development
    test
