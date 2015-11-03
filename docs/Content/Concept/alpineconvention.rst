@@ -1,4 +1,4 @@
-﻿.. _alpine_convention:
+﻿.. _concept-alpineconvention:
 
 .. index:: Alpenkonvention (Begriff)
 

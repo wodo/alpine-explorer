@@ -1,4 +1,4 @@
-﻿.. _alps:
+﻿.. _concept-alps:
 
 .. index:: Alpen (Begriff), Gebirge (Begriff)
 

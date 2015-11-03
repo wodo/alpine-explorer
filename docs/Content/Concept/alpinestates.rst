@@ -1,4 +1,4 @@
-﻿.. _alpine_states:
+﻿.. _concept-alpinestates:
 
 .. index:: Alpenländer (Begriff), Alpenstaat (Begriff), Alpenanrainerstaat (Begriff)
 

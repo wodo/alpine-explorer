@@ -1,6 +1,6 @@
-﻿.. _switzerland:
+﻿.. index:: Schweiz (Land), Schweizerische Eidgenossenschaft (Land)
 
-.. index:: Schweiz (Land), Schweizerische Eidgenossenschaft (Land)
+.. _country-switzerland:
 
 =======
 Schweiz

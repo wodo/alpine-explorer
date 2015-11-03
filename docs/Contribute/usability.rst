@@ -1,6 +1,6 @@
 ﻿:orphan:
 
-.. _contribute.usability:
+.. _contribute-usability:
 
 ========================================
 Benutzerfreundlichkeit und Bedienbarkeit

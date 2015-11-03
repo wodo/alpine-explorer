@@ -1,4 +1,4 @@
-﻿.. _manual.translation:
+﻿.. _manual-translation:
 
 =============
 Übersetzungen

@@ -6,6 +6,6 @@ Begriffe
 
 .. toctree::
 
-   alpine_convention
-   alpine_states
+   alpineconvention
+   alpinestates
    alps

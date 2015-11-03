@@ -1,4 +1,4 @@
-﻿.. _guidelines.coding.sql:
+﻿.. _guidelines-coding-sql:
 
 ===
 SQL

@@ -1,4 +1,4 @@
-﻿.. _guidelines.coding.restructuredtext:
+﻿.. _guidelines-coding-restructuredtext:
 
 ================
 reStructuredText

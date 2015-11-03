@@ -1,4 +1,4 @@
-﻿.. _guidelines.codeofconduct:
+﻿.. _guidelines-codeofconduct:
 
 ===============
 Verhaltenskodex

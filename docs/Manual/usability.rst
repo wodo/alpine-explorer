@@ -1,4 +1,4 @@
-﻿.. _manual.usability:
+﻿.. _manual-usability:
 
 ======================
 Benutzerfreundlichkeit

@@ -1,6 +1,6 @@
 ﻿:orphan:
 
-.. _contribute.translation:
+.. _contribute-translation:
 
 ===========================
 Übersetzung - Lokalisierung

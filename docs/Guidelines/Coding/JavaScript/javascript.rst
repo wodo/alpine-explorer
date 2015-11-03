@@ -1,4 +1,4 @@
-﻿.. _guidelines.coding.javascript:
+﻿.. _guidelines-coding-javascript:
 
 ==========
 JavaScript

@@ -1,6 +1,6 @@
 ﻿:orphan:
 
-.. _contribute.support:
+.. _contribute-support:
 
 ==============================
 Unterstützung anderer Anwender

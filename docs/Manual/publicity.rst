@@ -1,4 +1,4 @@
-﻿.. _manual.publicity:
+﻿.. _manual-publicity:
 
 =====================
 Öffentlichkeitsarbeit

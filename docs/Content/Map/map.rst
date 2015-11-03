@@ -6,4 +6,4 @@ Karten
 
 .. toctree::
 
-   ign-3534-ot
+   ign3534ot

@@ -1,4 +1,4 @@
-﻿.. _manual.documentation:
+﻿.. _manual-documentation:
 
 =============
 Dokumentation

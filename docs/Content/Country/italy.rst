@@ -1,6 +1,6 @@
-﻿.. _italy:
+﻿.. index:: Italien (Land), Italienische Republik (Land)
 
-.. index:: Italien (Land), Italienische Republik (Land)
+.. _country-italy:
 
 =======
 Italien

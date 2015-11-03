@@ -1,6 +1,7 @@
 ﻿:orphan:
 
 .. index:: Bücher, Literaturverzeichnis, Bibliografie
+
 .. _bibliography:
 
 ====================

@@ -1,4 +1,4 @@
-﻿.. _guidelines.filesystem:
+﻿.. _guidelines-filesystem:
 
 ===========
 Dateisystem
@@ -10,7 +10,7 @@ Dateisystem
 * Als Bezeichnung für das Thema wird ein Substantiv_ (Hauptwort) im Singular_ (Einzahl) gewählt.
 * Normalerweise stammt die Bezeichnung (der Name des Ordners und der \*.rst Datei) aus der englischen Sprache.
 * In der \*.rst Datei wird dann das Thema und seine Zusammenhänge mit anderen Themen ausführlich beschrieben.
-* Über den Aufbau der \*.rst Dateien finden sich weitere Angaben in den :ref:`Kodierrichtlinien für reStructuredText <guidelines.coding.restructuredtext>`.
+* Über den Aufbau der \*.rst Dateien finden sich weitere Angaben in den :ref:`Kodierrichtlinien für reStructuredText <guidelines-coding-restructuredtext>`.
 
 Beispiel:
 

@@ -1,4 +1,4 @@
-﻿.. _guidelines.coding:
+﻿.. _guidelines-coding:
 
 =================
 Kodierrichtlinien

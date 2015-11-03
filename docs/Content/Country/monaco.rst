@@ -1,6 +1,6 @@
-﻿.. _monaco:
+﻿.. index:: Monaco (Land), Fürstentum Monaco (Land)
 
-.. index:: Monaco (Land), Fürstentum Monaco (Land)
+.. _country-monaco:
 
 ======
 Monaco

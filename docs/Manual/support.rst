@@ -1,4 +1,4 @@
-﻿.. _manual.support:
+﻿.. _manual-support:
 
 ======================
 Anwender-Unterstützung

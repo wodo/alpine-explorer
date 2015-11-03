@@ -1,6 +1,6 @@
 ﻿:orphan:
 
-.. _contribute.development:
+.. _contribute-development:
 
 ===========
 Entwicklung

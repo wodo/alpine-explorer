@@ -1,4 +1,4 @@
-﻿.. _guidelines.coding.html:
+﻿.. _guidelines-coding-html:
 
 ====
 HTML

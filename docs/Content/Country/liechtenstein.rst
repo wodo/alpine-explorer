@@ -1,6 +1,6 @@
-﻿.. _liechtenstein:
+﻿.. index:: Liechtenstein (Land), Fürstentum Liechtenstein (Land)
 
-.. index:: Liechtenstein (Land), Fürstentum Liechtenstein (Land)
+.. _country-liechtenstein:
 
 =============
 Liechtenstein

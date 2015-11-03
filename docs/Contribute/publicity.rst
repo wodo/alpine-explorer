@@ -1,6 +1,6 @@
 ﻿:orphan:
 
-.. _contribute.publicity:
+.. _contribute-publicity:
 
 =====================
 Öffentlichkeitsarbeit

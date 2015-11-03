@@ -1,6 +1,7 @@
 ﻿:orphan:
 
 .. index:: Begriffsklärung
+
 .. _glossary:
 
 =================

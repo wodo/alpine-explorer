@@ -1,6 +1,6 @@
-﻿.. _slovenia:
+﻿.. index:: Slowenien (Land), Republik Slowenien (Land)
 
-.. index:: Slowenien (Land), Republik Slowenien (Land)
+.. _country-slovenia:
 
 =========
 Slowenien

@@ -1,4 +1,4 @@
-﻿.. _guidelines.coding.cypher:
+﻿.. _guidelines-coding-cypher:
 
 ======
 Cypher

@@ -1,5 +1,6 @@
 ﻿.. index:: Neo4j, Graphendatenbank
-.. _neo4j:
+
+.. _weblink-neo4j:
 
 =====
 Neo4j

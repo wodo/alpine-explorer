@@ -1,6 +1,6 @@
 ﻿:orphan:
 
-.. _contribute.test:
+.. _contribute-test:
 
 ====
 Test

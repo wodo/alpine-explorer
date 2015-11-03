@@ -1,6 +1,6 @@
 ﻿:orphan:
 
-.. _contribute.design:
+.. _contribute-design:
 
 ==========
 Gestaltung

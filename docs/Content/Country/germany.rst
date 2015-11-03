@@ -1,6 +1,6 @@
-﻿.. _germany:
+﻿.. index:: Deutschland (Land), Bundesrepublik Deutschland (Land)
 
-.. index:: Deutschland (Land), Bundesrepublik Deutschland (Land)
+.. _country-germany:
 
 ===========
 Deutschland

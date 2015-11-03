@@ -1,5 +1,5 @@
 ﻿.. index:: Alpenatlas (Buch)
-.. _alpenatlas:
+.. _book-alpenatlas:
 
 ==========
 Alpenatlas

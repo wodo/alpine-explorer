@@ -1,4 +1,4 @@
-﻿.. _guidelines.coding.css:
+﻿.. _guidelines-coding-css:
 
 ===
 CSS

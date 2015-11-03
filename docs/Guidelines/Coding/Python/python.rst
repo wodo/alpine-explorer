@@ -1,4 +1,4 @@
-﻿.. _guidelines.coding.python:
+﻿.. _guidelines-coding-python:
 
 ======
 Python

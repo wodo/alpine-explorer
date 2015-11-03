@@ -1,4 +1,4 @@
-﻿.. _manual.development:
+﻿.. _manual-development:
 
 ===========
 Entwicklung

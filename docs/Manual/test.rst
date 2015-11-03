@@ -1,4 +1,4 @@
-﻿.. _manual.test:
+﻿.. _manual-test:
 
 ====
 Test

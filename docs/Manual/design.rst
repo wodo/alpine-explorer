@@ -1,4 +1,4 @@
-﻿.. _manual.design:
+﻿.. _manual-design:
 
 ==========
 Gestaltung

@@ -1,6 +1,6 @@
 ﻿:orphan:
 
-.. _contribute.documentation:
+.. _contribute-documentation:
 
 =============
 Dokumentation

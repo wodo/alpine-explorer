@@ -1,6 +1,6 @@
-﻿.. _france:
+﻿.. index:: Frankreich (Land), Französische Republik (Land)
 
-.. index:: Frankreich (Land), Französische Republik (Land)
+.. _country-france:
 
 ==========
 Frankreich

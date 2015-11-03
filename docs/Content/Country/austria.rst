@@ -1,6 +1,6 @@
-﻿.. _austria:
+﻿.. index: Österreich (Land), Republik Österreich (Land)
 
-.. index: Österreich (Land), Republik Österreich (Land)
+.. _country-austria:
 
 ==========
 Österreich
