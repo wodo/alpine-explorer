@@ -1,8 +1,0 @@
-﻿.. _language:
-
-========
-Sprachen
-========
-
-.. toctree::
-

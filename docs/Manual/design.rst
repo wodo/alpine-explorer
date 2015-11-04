@@ -1,5 +1,0 @@
-﻿.. _manual-design:
-
-==========
-Gestaltung
-==========

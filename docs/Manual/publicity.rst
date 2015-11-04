@@ -1,5 +1,0 @@
-﻿.. _manual-publicity:
-
-=====================
-Öffentlichkeitsarbeit
-=====================
