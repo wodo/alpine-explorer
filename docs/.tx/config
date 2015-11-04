@@ -22,9 +22,9 @@ file_filter = locale/<lang>/LC_MESSAGES/Contribute.po
 source_file = _build/locale/Contribute.pot
 source_lang = de
 
-[al-ex.documentationpot]
-file_filter = locale/<lang>/LC_MESSAGES/Documentation.po
-source_file = _build/locale/Documentation.pot
+[al-ex.manualpot]
+file_filter = locale/<lang>/LC_MESSAGES/Manual.po
+source_file = _build/locale/Manual.pot
 source_lang = de
 
 [al-ex.guidelinespot]

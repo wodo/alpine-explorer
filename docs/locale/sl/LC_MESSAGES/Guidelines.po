@@ -1,15 +1,21 @@
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, Wolfgang Doll
+# This file is distributed under the same license as the Alpine-Explorer package.
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Alpine-Explorer 0.0.1\n"
+"Project-Id-Version: ALeX\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-03 05:52+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2015-11-04 17:22+0000\n"
+"PO-Revision-Date: 2015-11-04 17:51+0000\n"
+"Last-Translator: Wolfgang Doll <wolfgang.doll@web.de>\n"
+"Language-Team: Slovenian (http://www.transifex.com/alpine-explorer/al-ex/language/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 
 #: ../../Guidelines/Coding/CSS/css.rst:5
 msgid "CSS"
@@ -76,6 +82,10 @@ msgid ""
 " akzeptieren alle, die an unseren Aktivitäten teilnehmen. Wir wollen ein "
 "Umfeld fördern, in dem sich jeder einbringen und jeder etwas Besonderes "
 "bewirken kann."
+msgstr ""
+
+#: ../../Guidelines/codeofconduct.rst:19
+msgid "**Rücksicht**"
 msgstr ""
 
 #: ../../Guidelines/codeofconduct.rst:21
@@ -160,8 +170,8 @@ msgstr ""
 #: ../../Guidelines/filesystem.rst:13
 msgid ""
 "Über den Aufbau der \\*.rst Dateien finden sich weitere Angaben in den "
-":ref:`Kodierrichtlinien für reStructuredText "
-"<guidelines.coding.restructuredtext>`."
+":ref:`Kodierrichtlinien für reStructuredText <guidelines-coding-"
+"restructuredtext>`."
 msgstr ""
 
 #: ../../Guidelines/filesystem.rst:15
@@ -171,10 +181,3 @@ msgstr ""
 #: ../../Guidelines/guidelines.rst:5
 msgid "Leitlinien"
 msgstr ""
-
-#: ../../Guidelines/codeofconduct.rst:19
-msgid "**Rücksicht**"
-msgstr ""
-
-#~ msgid "**Freundlichkeit**"
-#~ msgstr ""

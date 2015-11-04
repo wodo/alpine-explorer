@@ -71,21 +71,21 @@ msgstr ""
 msgid "Bücher"
 msgstr ""
 
-#: ../../Content/Concept/alpine_convention.rst:7
+#: ../../Content/Concept/alpineconvention.rst:7
 msgid "Alpenkonvention"
 msgstr ""
 
-#: ../../Content/Concept/alpine_convention.rst:9
+#: ../../Content/Concept/alpineconvention.rst:9
 msgid ""
 "`Wikipedia:Alpenkonvention "
 "<https://de.wikipedia.org/wiki/Alpenkonvention>`__"
 msgstr ""
 
-#: ../../Content/Concept/alpine_states.rst:7
+#: ../../Content/Concept/alpinestates.rst:7
 msgid "Alpenländer"
 msgstr ""
 
-#: ../../Content/Concept/alpine_states.rst:9
+#: ../../Content/Concept/alpinestates.rst:9
 msgid "`Wikipedia:Alpenländer <https://de.wikipedia.org/wiki/Alpenländer>`__"
 msgstr ""
 
@@ -178,15 +178,15 @@ msgstr ""
 msgid "Sprachen"
 msgstr ""
 
-#: ../../Content/Map/ign-3534-ot.rst:6
+#: ../../Content/Map/ign3534ot.rst:7
 msgid "Carte de Randonnée 3534 OT"
 msgstr ""
 
-#: ../../Content/Map/ign-3534-ot.rst:8
+#: ../../Content/Map/ign3534ot.rst:9
 msgid "LES TROIS VALLÉES / MODANE / PARC NATIONAL DE LA VANOISE"
 msgstr ""
 
-#: ../../Content/Map/ign-3534-ot.rst:9
+#: ../../Content/Map/ign3534ot.rst:10
 msgid "1:25000"
 msgstr ""
 
@@ -198,11 +198,11 @@ msgstr ""
 msgid "Örtlichkeiten"
 msgstr ""
 
-#: ../../Content/Weblink/neo4j.rst:6
+#: ../../Content/Weblink/neo4j.rst:7
 msgid "Neo4j"
 msgstr ""
 
-#: ../../Content/Weblink/neo4j.rst:8
+#: ../../Content/Weblink/neo4j.rst:9
 msgid "`Wikipedia:Neo4j <https://de.wikipedia.org/wiki/Neo4j>`__"
 msgstr ""
 
@@ -210,46 +210,49 @@ msgstr ""
 msgid "Internet Links"
 msgstr ""
 
-#: ../../Content/bibliography.rst:8
+#: ../../Content/bibliography.rst:9
 msgid "Literaturverzeichnis"
 msgstr ""
 
-#: ../../Content/bibliography.rst:10
+#: ../../Content/bibliography.rst:11
 msgid ""
 "`Wikipedia:Literaturverzeichnis "
 "<https://de.wikipedia.org/wiki/Literaturverzeichnis>`__"
-msgstr ""
-
-#: ../../Content/bibliography.rst:12
-msgid ":ref:`alpenatlas`"
 msgstr ""
 
 #: ../../Content/content.rst:5
 msgid "Themen"
 msgstr ""
 
-#: ../../Content/glossary.rst:8
+#: ../../Content/glossary.rst:9
 msgid "Begriffsklärungen"
 msgstr ""
 
-#: ../../Content/glossary.rst:10
+#: ../../Content/glossary.rst:11
 msgid ""
 "`Wikipedia:Begriffsklärung "
 "<https://de.wikipedia.org/wiki/Wikipedia:Begriffsklärung>`__"
 msgstr ""
 
-#: ../../Content/glossary.rst:13
+#: ../../Content/glossary.rst:14
 msgid "Graphendatenbank"
 msgstr ""
 
-#: ../../Content/glossary.rst:15
+#: ../../Content/glossary.rst:16
 msgid ""
 "Eine Graphdatenbank (oder graphenorientierte Datenbank) ist eine Datenbank, "
 "die Graphen benutzt, um stark vernetzte Informationen darzustellen und "
 "abzuspeichern."
 msgstr ""
 
-#: ../../Content/glossary.rst:18
+#: ../../Content/glossary.rst:19
 msgid ""
 "`Wkipedia:Graphendatenbank <https://de.wikipedia.org/wiki/Graphdatenbank>`__"
 msgstr ""
+
+#: ../../Content/bibliography.rst:13
+msgid ":ref:`book-alpenatlas`"
+msgstr ""
+
+#~ msgid ":ref:`alpenatlas`"
+#~ msgstr ""

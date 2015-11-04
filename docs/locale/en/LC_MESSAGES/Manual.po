@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ALeX\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-03 06:28+0000\n"
-"PO-Revision-Date: 2015-11-03 06:13+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-11-04 17:22+0000\n"
+"PO-Revision-Date: 2015-11-04 17:51+0000\n"
+"Last-Translator: Wolfgang Doll <wolfgang.doll@web.de>\n"
 "Language-Team: English (http://www.transifex.com/alpine-explorer/al-ex/language/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,11 +17,23 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ../../Documentation/documentation.rst:5
+#: ../../Manual/design.rst:5
+msgid "Gestaltung"
+msgstr ""
+
+#: ../../Manual/development.rst:5
+msgid "Entwicklung"
+msgstr ""
+
+#: ../../Manual/documentation.rst:5
 msgid "Dokumentation"
 msgstr ""
 
-#: ../../Documentation/documentation.rst:7
+#: ../../Manual/manual.rst:5
+msgid "Handbücher"
+msgstr ""
+
+#: ../../Manual/manual.rst:7
 msgid ""
 "Diese Dokumentation ist als eine Sammlung von \\*.rst Dateien organisiert. "
 "Sie ist das gemeinsame Werk vieler Helfer im Redaktionsteam, welche bereit "
@@ -29,7 +41,7 @@ msgid ""
 "Die Datensicherung und Versionsverwaltung erfolgt über `GitHub <github_>`_"
 msgstr ""
 
-#: ../../Documentation/documentation.rst:9
+#: ../../Manual/manual.rst:9
 msgid ""
 "Bitte hilf auch Du mit die Dokumentation noch besser zu gestalten. Zu jeder "
 "Seite kannst Du auf GitHub in unserem `Wiki <wiki_>`_ Deinen persönlichen "
@@ -38,15 +50,60 @@ msgid ""
 "Vorschläge zu berücksichtigen."
 msgstr ""
 
-#: ../../Documentation/documentation.rst:11
+#: ../../Manual/manual.rst:11
 msgid ""
 "Wünsche und Verbesserungsvorschläge sowie Deine Hinweise auf Fehler können "
 "auf GitHub von Dir in unseren `Tracker <issues_>`_ eingetragen werden."
 msgstr ""
 
-#: ../../Documentation/documentation.rst:13
+#: ../../Manual/manual.rst:13
 msgid ""
 "Du möchtest selbst Mitglied im Redaktionsteam werden und uns unterstützen? "
 "Unter dem Info-Knoten :ref:`Mitmachen <contribute>` findest Du alle weiteren"
 " dafür notwendigen Informationen."
+msgstr ""
+
+#: ../../Manual/publicity.rst:5
+msgid "Öffentlichkeitsarbeit"
+msgstr ""
+
+#: ../../Manual/support.rst:5
+msgid "Anwender-Unterstützung"
+msgstr ""
+
+#: ../../Manual/test.rst:5
+msgid "Test"
+msgstr ""
+
+#: ../../Manual/translation.rst:5
+msgid "Übersetzungen"
+msgstr ""
+
+#: ../../Manual/translation.rst:8
+msgid "Die Arbeit mit Sphinx und transifex"
+msgstr ""
+
+#: ../../Manual/translation.rst:10
+msgid "Lokalisierungsdateien (\\*.pot) erzeugen"
+msgstr ""
+
+#: ../../Manual/translation.rst:16
+msgid "\\*.po Dateien auf den aktuelle Stand bringen"
+msgstr ""
+
+#: ../../Manual/translation.rst:22
+msgid "\\*.pot Dateien zu transiflex übertragen."
+msgstr ""
+
+#: ../../Manual/translation.rst:28
+msgid ""
+"Die übersetzten Inhalte von transifex zurück in das lokale projekt holen"
+msgstr ""
+
+#: ../../Manual/translation.rst:37
+msgid "Die \\*.po dateien in maschinenlesbare \\*.mo Dateien verwandeln"
+msgstr ""
+
+#: ../../Manual/usability.rst:5
+msgid "Benutzerfreundlichkeit"
 msgstr ""
