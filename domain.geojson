@@ -9,7 +9,7 @@
                     "description":"",
                     "stroke":"#f86767",
                     "stroke-width":1,
-                    "stroke-opacity":0.2,
+                    "stroke-opacity":0.4,
                     "fill":"#a3e46b",
                     "fill-opacity":0.2
                 },
@@ -26,8 +26,8 @@
                     "title":"",
                     "description":"",
                     "stroke":"#1087bf",
-                    "stroke-width":4,
-                    "stroke-opacity":1
+                    "stroke-width":1,
+                    "stroke-opacity":0.4
                 },
             "geometry":
                 {
