@@ -6,7 +6,7 @@
           }
     },
     "type":"FeatureCollection",
-    "bbox": [4.5, 48.5, 17.5, 43.5],
+    "bbox": [4.5, 42.5, 17.5, 43.5],
     "features":[
         {
             "type":"Feature",
