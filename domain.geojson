@@ -5,10 +5,9 @@
             "type":"Feature",
             "properties":
                 {
-                    "title":"",
-                    "description":"",
+                    "title":"The Alpine-Explorer Domain",
                     "stroke":"#f86767",
-                    "stroke-width":1,
+                    "stroke-width":3,
                     "stroke-opacity":0.4,
                     "fill":"#a3e46b",
                     "fill-opacity":0.2
@@ -23,8 +22,6 @@
             "type":"Feature",
             "properties":
                 {
-                    "title":"",
-                    "description":"",
                     "stroke":"#1087bf",
                     "stroke-width":1,
                     "stroke-opacity":0.4
