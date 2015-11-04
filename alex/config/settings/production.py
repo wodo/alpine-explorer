@@ -2,7 +2,6 @@
 from .base import *
 
 DEBUG = False
-TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
     (get_env('ALEX_ADMIN_NAME'), get_env('ALEX_ADMIN_EMAIL')),
@@ -29,17 +28,25 @@ DATABASES = {
 
 MEDIA_ROOT = '/usr/local/nginx/html/media/'
 STATIC_ROOT = '/usr/local/nginx/html/static/'
-TEMPLATE_DIRS = (
-    BASE_DIR('templates'),
-)
 
-# Additional locations of static files
-STATICFILES_DIRS = (
-    # Put strings here, like "/home/html/static" or "C:/www/django/static".
-    # Always use forward slashes, even on Windows.
-    # Don't forget to use absolute paths, not relative paths.
-)
+TEMPLATES = [
+    {
+        'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'APP_DIRS': True,
+        'OPTIONS': {
+            'debug': DEBUG,
+            'context_processors': [
+                'django.template.context_processors.debug',
+                'django.template.context_processors.request',
+                'django.contrib.auth.context_processors.auth',
+                'django.contrib.messages.context_processors.messages',
+            ],
+        },
+    },
+]
 
+#INSTALLED_APPS += ("debug_toolbar", )
 INTERNAL_IPS = ("127.0.0.1", )
 
 EMAIL_HOST = get_env('ALEX_EMAIL_HOST')

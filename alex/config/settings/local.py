@@ -2,7 +2,6 @@
 from .base import *
 
 DEBUG = True
-TEMPLATE_DEBUG = DEBUG
 
 # Database
 # https://docs.djangoproject.com/en/1.8/ref/settings/#databases
@@ -17,11 +16,25 @@ DATABASES = {
     }
 }
 
-MEDIA_ROOT = BASE_DIR('media')
-STATIC_ROOT = BASE_DIR('static')
-TEMPLATE_DIRS = (
-    BASE_DIR('templates'),
-)
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+TEMPLATES = [
+    {
+        'BACKEND': 'django.template.backends.django.DjangoTemplates',
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'APP_DIRS': True,
+        'OPTIONS': {
+            'debug': DEBUG,
+            'context_processors': [
+                'django.template.context_processors.debug',
+                'django.template.context_processors.request',
+                'django.contrib.auth.context_processors.auth',
+                'django.contrib.messages.context_processors.messages',
+            ],
+        },
+    },
+]
 
 #INSTALLED_APPS += ("debug_toolbar", )
 INTERNAL_IPS = ("127.0.0.1", )
